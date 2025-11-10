@@ -9,9 +9,8 @@ Institution: University of North Carolina at Charlotte
 | ----------------------------| --------------------------------------------------------------------------- |
 | network_dlp.py              | Core logic for detecting sensitive data patterns (email, CC, SSN, etc.).    |
 | post_server.py              | Lightweight HTTP POST server that receives data and calls the DLP analyzer. |
-| send_payload_http.py        | Interactive script to dynamically send data to the server.                  ||
-| rules.json *(optional)*     | JSON file for custom detection rules (if you prefer config-based setup).    |
-| requirements.txt            | Lists required Python libraries (`requests`, `http.server`, `re`).          |
+| send_payload_http.py        | Interactive script to dynamically send data to the server.                  |
+| rules.json                  | JSON file for custom detection rules.                                       |
 | README.md                   | Project guide and setup instructions.                                       |
 
 
