@@ -18,7 +18,7 @@ Institution: University of North Carolina at Charlotte
 # How to run
 Step 1: Go to Your Project Folder
     Open PowerShell or Command Prompt as Adminstrator and navigate to your project path:
-    cd D:\PISP\Projects\Course_project\Network_DLP_Project
+    cd go to the drectory where the code is present.
 Step 2: Check Python Installation:
     python --version
 Step 3: Install Required Packages:
