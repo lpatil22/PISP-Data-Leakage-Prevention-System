@@ -11,6 +11,7 @@ Institution: University of North Carolina at Charlotte
 | post_server.py              | Lightweight HTTP POST server that receives data and calls the DLP analyzer. |
 | send_payload_http.py        | Interactive script to dynamically send data to the server.                  |
 | rules.json                  | JSON file for custom detection rules.                                       |
+| utils.py                    | Handles helper functions for data detection and masking.                    |
 | README.md                   | Project guide and setup instructions.                                       |
 
 
