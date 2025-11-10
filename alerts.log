@@ -58,3 +58,39 @@ Data: 4111-1111-1111-1111
 [2025-11-10 00:51:49] ALERT 🚨 Potential Password leak detected
 Data: **************
 ------------------------------------------------------------
+[2025-11-10 09:35:43] ALERT 🚨 Potential Password leak detected
+Data: *************
+------------------------------------------------------------
+[2025-11-10 09:37:04] ALERT 🚨 Potential Email Address leak detected
+Data: l***@gmail.com
+------------------------------------------------------------
+[2025-11-10 09:37:04] ALERT 🚨 Potential Password leak detected
+Data: **********
+------------------------------------------------------------
+[2025-11-10 09:48:28] ALERT Potential Email Address leak detected
+Data: **********.com
+------------------------------------------------------------
+[2025-11-10 09:48:47] ALERT Potential High Entropy String leak detected
+Data: TopSecret@123
+------------------------------------------------------------
+[2025-11-10 09:49:16] ALERT Potential Social Security Number (SSN) leak detected
+Data: *******1234
+------------------------------------------------------------
+[2025-11-10 09:49:37] ALERT Potential Credit Card Number leak detected
+Data: 1234 0000 1235 3456
+------------------------------------------------------------
+[2025-11-10 09:52:38] ALERT Potential High Entropy String leak detected
+Data: *********@123
+------------------------------------------------------------
+[2025-11-10 09:52:57] ALERT Potential Password Field leak detected
+Data: ***************123@
+------------------------------------------------------------
+[2025-11-10 09:53:33] ALERT Potential Email Address leak detected
+Data: ***********.com
+------------------------------------------------------------
+[2025-11-10 10:24:52] ALERT Potential Email Address leak detected
+Data: ****************.edu
+------------------------------------------------------------
+[2025-11-10 10:25:31] ALERT Potential Email Address leak detected
+Data: *****************.edu
+------------------------------------------------------------
